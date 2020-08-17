@@ -1,2 +1,2 @@
 # Find-Jobs-By-Company
-Accepts job titles and company list, and finds corresponding roles at those companies via Glassdoor.
+Accepts a company list, then finds all open roles at companies via Glassdoor.
